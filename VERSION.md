@@ -9,3 +9,4 @@ Version 0.0.1
 -does not need anything, works only with the traversal python libs
 -warning, requires super user privs when in root disk and does list every file
 -comes as is.
+---------------------------------------------------------------------------------
